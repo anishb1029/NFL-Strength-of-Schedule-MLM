@@ -50,17 +50,17 @@ data/drive_level_data.csv
 
 Ordinal Regression:
 ```bash
-python baseline_ordinal.py
+python OBR.py
 ```
 
 PROR model:
 ```bash
-python pror_model.py
+python PROR.py
 ```
 
 Random Forest:
 ```bash
-python random_forest.py
+python RANDOMFOREST.py
 ```
 
 ### 6. View outputs
